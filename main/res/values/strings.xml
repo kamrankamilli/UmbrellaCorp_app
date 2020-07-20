@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Umbrella Corp</string>
+    <string name="title_home">Home</string>
+    <string name="title_company_history">Company History</string>
+    <string name="title_vision">Vision</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_support">Support Form</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
